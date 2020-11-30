@@ -1,1 +1,1 @@
-# new_project
+# Coursera html, css, JS course
